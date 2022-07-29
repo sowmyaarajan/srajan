@@ -27,11 +27,11 @@ interests:
 education:
   courses:
     - course: MSc. in Digital Sciences 
-      institution: University of Paris
+      name: University of Paris
       url: https://u-paris.fr/en/
       year: 2021
     - course: B.E in Electrical and Electronics Engineering
-      institution: Visvesvaraya Technological University
+      name: Visvesvaraya Technological University
       url: https://vtu.ac.in/
       year: 2017
 
